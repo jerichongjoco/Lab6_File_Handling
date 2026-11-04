@@ -1,0 +1,12 @@
+PYTHON FILE-HANDLING PROCESSING REPORT
+----------------------------------------
+Last Name: Ongjoco
+Student ID: TUPM-26-1852
+Seed Digit: 2
+ID Sum: 24
+Verification Value: 170
+Dataset Sample Size: 74
+Valid Records: 74
+Average Global Active Power: 4.055
+JSON File: Ongjoco_TUPM-26-1852_record.json
+Backup File: Ongjoco_TUPM-26-1852_record.csv

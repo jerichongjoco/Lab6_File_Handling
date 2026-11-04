@@ -1,0 +1,5 @@
+Student: Ongjoco
+Student ID: TUPM-26-1852
+Seed digit: 2
+ID sum: 24
+Verification value: 170
